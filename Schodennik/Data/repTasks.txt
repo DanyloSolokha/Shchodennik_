@@ -1,0 +1,419 @@
+{
+  "$id": "1",
+  "2024-06-05T00:00:00+03:00": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "Frequency": 2,
+        "Id": "9ed4c6be-3915-40ae-83b2-225bc14f07c6",
+        "NextId": "3f8268a4-255d-445e-8fdb-331ed5509259",
+        "PrevId": null,
+        "Date": "2024-06-05T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": true,
+        "SubTasks": {
+          "$id": "4",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-07T00:00:00+03:00": {
+    "$id": "5",
+    "$values": [
+      {
+        "$id": "6",
+        "Frequency": 2,
+        "Id": "3f8268a4-255d-445e-8fdb-331ed5509259",
+        "NextId": "6a20b2a6-3556-4cff-953e-7341e1594172",
+        "PrevId": "9ed4c6be-3915-40ae-83b2-225bc14f07c6",
+        "Date": "2024-06-07T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "7",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-09T00:00:00+03:00": {
+    "$id": "8",
+    "$values": [
+      {
+        "$id": "9",
+        "Frequency": 2,
+        "Id": "6a20b2a6-3556-4cff-953e-7341e1594172",
+        "NextId": "4a83ee52-ba77-4e11-a9eb-d274d9fb4890",
+        "PrevId": "3f8268a4-255d-445e-8fdb-331ed5509259",
+        "Date": "2024-06-09T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "10",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-11T00:00:00+03:00": {
+    "$id": "11",
+    "$values": [
+      {
+        "$id": "12",
+        "Frequency": 2,
+        "Id": "4a83ee52-ba77-4e11-a9eb-d274d9fb4890",
+        "NextId": "9ca10428-56df-4eb9-a759-9a4c80674378",
+        "PrevId": "6a20b2a6-3556-4cff-953e-7341e1594172",
+        "Date": "2024-06-11T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "13",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-13T00:00:00+03:00": {
+    "$id": "14",
+    "$values": [
+      {
+        "$id": "15",
+        "Frequency": 2,
+        "Id": "9ca10428-56df-4eb9-a759-9a4c80674378",
+        "NextId": "f4349079-143b-447d-a636-174db24cad0d",
+        "PrevId": "4a83ee52-ba77-4e11-a9eb-d274d9fb4890",
+        "Date": "2024-06-13T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "16",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-15T00:00:00+03:00": {
+    "$id": "17",
+    "$values": [
+      {
+        "$id": "18",
+        "Frequency": 2,
+        "Id": "f4349079-143b-447d-a636-174db24cad0d",
+        "NextId": "7a5e4911-d898-4567-9136-e24b5607e2ca",
+        "PrevId": "9ca10428-56df-4eb9-a759-9a4c80674378",
+        "Date": "2024-06-15T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "19",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-17T00:00:00+03:00": {
+    "$id": "20",
+    "$values": [
+      {
+        "$id": "21",
+        "Frequency": 2,
+        "Id": "7a5e4911-d898-4567-9136-e24b5607e2ca",
+        "NextId": "d71f5129-e320-4a04-b026-fe0ff4c494f3",
+        "PrevId": "f4349079-143b-447d-a636-174db24cad0d",
+        "Date": "2024-06-17T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "22",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-19T00:00:00+03:00": {
+    "$id": "23",
+    "$values": [
+      {
+        "$id": "24",
+        "Frequency": 2,
+        "Id": "d71f5129-e320-4a04-b026-fe0ff4c494f3",
+        "NextId": "d33eb867-d473-4630-9876-0733f4118138",
+        "PrevId": "7a5e4911-d898-4567-9136-e24b5607e2ca",
+        "Date": "2024-06-19T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "25",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-21T00:00:00+03:00": {
+    "$id": "26",
+    "$values": [
+      {
+        "$id": "27",
+        "Frequency": 2,
+        "Id": "d33eb867-d473-4630-9876-0733f4118138",
+        "NextId": "ad6334d2-950c-46c6-9a00-582177f0f58e",
+        "PrevId": "d71f5129-e320-4a04-b026-fe0ff4c494f3",
+        "Date": "2024-06-21T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "28",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-23T00:00:00+03:00": {
+    "$id": "29",
+    "$values": [
+      {
+        "$id": "30",
+        "Frequency": 2,
+        "Id": "ad6334d2-950c-46c6-9a00-582177f0f58e",
+        "NextId": "1fb3bd0b-72f3-4a14-b38b-0ab764c2b398",
+        "PrevId": "d33eb867-d473-4630-9876-0733f4118138",
+        "Date": "2024-06-23T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "31",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-25T00:00:00+03:00": {
+    "$id": "32",
+    "$values": [
+      {
+        "$id": "33",
+        "Frequency": 2,
+        "Id": "1fb3bd0b-72f3-4a14-b38b-0ab764c2b398",
+        "NextId": "50654640-0735-48c3-987d-98f4b91750a8",
+        "PrevId": "ad6334d2-950c-46c6-9a00-582177f0f58e",
+        "Date": "2024-06-25T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "34",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-27T00:00:00+03:00": {
+    "$id": "35",
+    "$values": [
+      {
+        "$id": "36",
+        "Frequency": 2,
+        "Id": "50654640-0735-48c3-987d-98f4b91750a8",
+        "NextId": "b63aaca8-f10a-4eb7-963f-277b7f728b00",
+        "PrevId": "1fb3bd0b-72f3-4a14-b38b-0ab764c2b398",
+        "Date": "2024-06-27T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "37",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-29T00:00:00+03:00": {
+    "$id": "38",
+    "$values": [
+      {
+        "$id": "39",
+        "Frequency": 2,
+        "Id": "b63aaca8-f10a-4eb7-963f-277b7f728b00",
+        "NextId": "5749c9e7-dc81-46e6-9ded-2014bfe172f3",
+        "PrevId": "50654640-0735-48c3-987d-98f4b91750a8",
+        "Date": "2024-06-29T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "40",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-07-01T00:00:00+03:00": {
+    "$id": "41",
+    "$values": [
+      {
+        "$id": "42",
+        "Frequency": 2,
+        "Id": "5749c9e7-dc81-46e6-9ded-2014bfe172f3",
+        "NextId": "686af3dd-bc76-4028-a6b6-017d45aaa10c",
+        "PrevId": "b63aaca8-f10a-4eb7-963f-277b7f728b00",
+        "Date": "2024-07-01T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "43",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-07-03T00:00:00+03:00": {
+    "$id": "44",
+    "$values": [
+      {
+        "$id": "45",
+        "Frequency": 2,
+        "Id": "686af3dd-bc76-4028-a6b6-017d45aaa10c",
+        "NextId": "e2549729-50f9-4e7d-804c-421c046a92e7",
+        "PrevId": "5749c9e7-dc81-46e6-9ded-2014bfe172f3",
+        "Date": "2024-07-03T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "46",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-07-05T00:00:00+03:00": {
+    "$id": "47",
+    "$values": [
+      {
+        "$id": "48",
+        "Frequency": 2,
+        "Id": "e2549729-50f9-4e7d-804c-421c046a92e7",
+        "NextId": null,
+        "PrevId": "686af3dd-bc76-4028-a6b6-017d45aaa10c",
+        "Date": "2024-07-05T00:00:00+03:00",
+        "Duration": 90,
+        "AbsoluteStartTime": 1260,
+        "StartHour": 21,
+        "StartMinute": 0,
+        "EndTime": 1350,
+        "Description": "\u041F\u043E\u0447\u0438\u0442\u0430\u0442\u0438 \u043A\u043D\u0438\u0433\u0443",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "49",
+          "$values": []
+        }
+      }
+    ]
+  }
+}

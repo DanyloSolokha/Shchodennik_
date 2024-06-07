@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Main\mainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main\ViewHelper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\CalendarCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\DoneTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\EditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\SelectModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\SimplifiedEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\SubTaskForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Designers\TaskItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Main\mainWindow.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

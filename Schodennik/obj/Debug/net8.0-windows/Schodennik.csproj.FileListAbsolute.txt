@@ -1,0 +1,51 @@
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Form1.resources
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.csproj.GenerateResource.cache
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.AssemblyInfoInputs.cache
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.AssemblyInfo.cs
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.csproj.CoreCompileInputs.cache
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.exe
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.deps.json
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.runtimeconfig.json
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.dll
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.pdb
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.dll
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\refint\Schodennik.dll
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.pdb
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.genruntimeconfig.cache
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\ref\Schodennik.dll
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Form2.resources
+C:\Users\nolax\Documents\Мусор по урокам\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.mainWindow.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.exe
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.deps.json
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.runtimeconfig.json
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.dll
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\bin\Debug\net8.0-windows\Schodennik.pdb
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.mainWindow.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Properties.Resources.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.CalendarCell.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.DetailedForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.DoneTaskForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.EditForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.ErrorForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.SelectRescheduleModeForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.SimplifiedEditForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.SubTaskForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.Resources.TaskItemControl.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.CalendarCell.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.DoneTaskForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.EditForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.SimplifiedEditForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.SubTaskForm.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\TaskItemControl.resources
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.csproj.GenerateResource.cache
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.AssemblyInfoInputs.cache
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.AssemblyInfo.cs
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.csproj.CoreCompileInputs.cache
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.dll
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\refint\Schodennik.dll
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.pdb
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.genruntimeconfig.cache
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\ref\Schodennik.dll
+C:\Users\nolax\Documents\уроки\курсовая\Schodennik\Schodennik\obj\Debug\net8.0-windows\Schodennik.SelectModeForm.resources

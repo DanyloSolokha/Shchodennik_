@@ -1,0 +1,180 @@
+{
+  "$id": "1",
+  "2024-06-04T00:00:00+03:00": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "Date": "2024-06-04T00:00:00+03:00",
+        "Duration": 60,
+        "AbsoluteStartTime": 540,
+        "StartHour": 9,
+        "StartMinute": 0,
+        "EndTime": 600,
+        "Description": "\u0420\u0430\u043D\u043A\u043E\u0432\u0456 \u0441\u043F\u0440\u0430\u0432\u0438",
+        "Note": "...",
+        "Location": "...",
+        "Done": true,
+        "SubTasks": {
+          "$id": "4",
+          "$values": [
+            {
+              "$id": "5",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430 1",
+              "Note": "...",
+              "Location": "...",
+              "Done": false,
+              "SubTasks": {
+                "$id": "6",
+                "$values": []
+              }
+            },
+            {
+              "$id": "7",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430 2",
+              "Note": "...",
+              "Location": "...",
+              "Done": false,
+              "SubTasks": {
+                "$id": "8",
+                "$values": []
+              }
+            },
+            {
+              "$id": "9",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430",
+              "Note": "...",
+              "Location": "...",
+              "Done": false,
+              "SubTasks": {
+                "$id": "10",
+                "$values": []
+              }
+            },
+            {
+              "$id": "11",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430",
+              "Note": "...",
+              "Location": "...",
+              "Done": true,
+              "SubTasks": {
+                "$id": "12",
+                "$values": []
+              }
+            },
+            {
+              "$id": "13",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430",
+              "Note": "...",
+              "Location": "...",
+              "Done": false,
+              "SubTasks": {
+                "$id": "14",
+                "$values": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$id": "15",
+        "Date": "2024-06-04T00:00:00+03:00",
+        "Duration": 240,
+        "AbsoluteStartTime": 675,
+        "StartHour": 11,
+        "StartMinute": 15,
+        "EndTime": 915,
+        "Description": "\u0417\u0430\u043D\u044F\u0442\u044F",
+        "Note": "\u043D\u0435 \u0437\u0430\u0431\u0443\u0442\u0438 \u0441\u043F\u0438\u0442\u0430\u0442\u0438 \u043F\u0440\u043E \u0437\u0430\u043B\u0456\u043A \u0437 \u0430\u043D\u0448\u043B\u0456\u0439\u0441\u044C\u043A\u043E\u0457",
+        "Location": "...",
+        "Done": true,
+        "SubTasks": {
+          "$id": "16",
+          "$values": [
+            {
+              "$id": "17",
+              "Description": "\u041D\u043E\u0432\u0430 \u0441\u043F\u0440\u0430\u0432\u0430",
+              "Note": "...",
+              "Location": "...",
+              "Done": true,
+              "SubTasks": {
+                "$id": "18",
+                "$values": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "2024-06-05T00:00:00": {
+    "$id": "19",
+    "$values": [
+      {
+        "$id": "20",
+        "Date": "2024-06-05T00:00:00",
+        "Duration": 240,
+        "AbsoluteStartTime": 675,
+        "StartHour": 11,
+        "StartMinute": 15,
+        "EndTime": 915,
+        "Description": "\u0417\u0430\u043D\u044F\u0442\u044F",
+        "Note": "...",
+        "Location": "...",
+        "Done": true,
+        "SubTasks": {
+          "$id": "21",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-11T00:00:00+03:00": {
+    "$id": "22",
+    "$values": [
+      {
+        "$id": "23",
+        "Date": "2024-06-11T00:00:00+03:00",
+        "Duration": 240,
+        "AbsoluteStartTime": 675,
+        "StartHour": 11,
+        "StartMinute": 15,
+        "EndTime": 915,
+        "Description": "\u0417\u0430\u043D\u044F\u0442\u044F",
+        "Note": "...",
+        "Location": "...",
+        "Done": false,
+        "SubTasks": {
+          "$id": "24",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-05-28T00:00:00+03:00": {
+    "$id": "25",
+    "$values": [
+      {
+        "$id": "26",
+        "Date": "2024-05-28T00:00:00+03:00",
+        "Duration": 240,
+        "AbsoluteStartTime": 675,
+        "StartHour": 11,
+        "StartMinute": 15,
+        "EndTime": 915,
+        "Description": "\u0417\u0430\u043D\u044F\u0442\u044F",
+        "Note": "...",
+        "Location": "...",
+        "Done": true,
+        "SubTasks": {
+          "$id": "27",
+          "$values": []
+        }
+      }
+    ]
+  },
+  "2024-06-06T00:00:00+03:00": {
+    "$id": "28",
+    "$values": []
+  }
+}
